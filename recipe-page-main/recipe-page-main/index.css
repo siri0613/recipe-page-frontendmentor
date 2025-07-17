@@ -1,0 +1,97 @@
+h3{
+    color: hsl(14, 45%, 36%);
+}
+#top{
+    padding-left: 26px;
+}
+.pink-box{
+    background-color: hsl(330, 100%, 98%);
+    padding-top: 1px;
+    padding-bottom: 2px;
+    margin-left: 23px;
+}
+#prep-time{
+    padding-left: 26px;
+}
+body{
+    background-color: hsl(30, 18%, 87%);
+    font-family: 'Young Serif',serif;
+    margin: 0;
+    padding: 0;
+}
+.container{
+    background-color: white;
+    max-width: 650px;
+    width: 90%;
+    margin: 0 auto;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+::marker{
+    color: hsl(332, 51%, 32%);
+    font-weight: bold;
+}
+span{
+    font-weight: bold;
+}
+h3{
+    padding-left: 26px;
+}
+img{
+    max-width: 100%;
+    
+}
+hr{
+    color: grey;
+    margin-top: 1px;
+    margin-bottom: 1px;
+}
+h1{
+    padding-left: 26px;
+    
+}
+.nutrition{
+    padding-left: 26px;
+}
+.items p{
+    display: inline-block;
+}
+.key{
+    text-align: left;
+    width: 60%;
+}
+.value{
+    text-align: right; 
+    color: hsl(14, 45%, 36%); 
+    font-weight: bold; 
+}
+.attribution{
+    margin-top: 30px;
+}
+.young-serif-regular {
+  font-family: "Young Serif", serif;
+  font-weight: 400;
+  font-style: normal;
+}
+body {
+    font-family: 'Outfit', sans-serif;
+}
+
+h1, h3, h4 {
+    font-family: 'Young Serif', serif;
+}
+li{
+    margin-bottom: 10px;
+}
+@media (max-width: 600px) {
+  .container {
+    padding: 20px;
+  }
+
+  h1, h3, h4 {
+    font-size: 1.3rem;
+  }
+}
+
